@@ -21,7 +21,7 @@ git log --graph --oneline --all
 # 이후 vs code 로 활용 가능
 
 # 원격저장소 등록
-git remote add origin https://github.com/iciaGit/yeardream2026.git
+git remote add origin https://github.com/suzzy1004/yeardream2026
 
 # 기본 브랜치 이름 변경
 git branch -M main
@@ -30,10 +30,10 @@ git branch -M main
 git push -u origin main
 
 # 글로벌 저장소 이름 변경
-git config --global user.name "새로운 사용자 이름"
+git config --global user.name "suzy"
 
 # 이메일 주소 변경
-git config --global user.email "jihookuku@gmail.com"
+git config --global user.email "suzzy@gmail.com"
 
 
 
